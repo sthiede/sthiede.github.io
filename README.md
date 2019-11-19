@@ -12,3 +12,4 @@ This was forked from [AcademicPages](https://github.com/academicpages/academicpa
 - [`files/`](files/)
 - [`images/`](files/)
 - [`run-local.sh`](run-local.sh)
+- [`_includes/sidebar.html`](_includes/sidebar.html)
