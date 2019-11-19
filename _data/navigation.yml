@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "CV"
-    url: /latex-cv/cv_KLS.pdf
+#  - title: "CV"
+#    url: /latex-cv/cv_KLS.pdf
   - title: "Publications"
-    url: https://scholar.google.com/citations?hl=en&user=TlglgLgAAAAJ
-  - title: "Posts"
-    url: /year-archive/
+    url: https://scholar.google.com/citations?user=0gIsCdMAAAAJ&hl=en
+# - title: "Posts"
+#   url: /year-archive/
 #  - title: "Talks"
 #    url: /talks/
 #  - title: "Teaching"
